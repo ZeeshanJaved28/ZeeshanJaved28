@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **zeeshanjaved28@hotmail.com**
 
-- ⚡ Fun fact **I'm Funny😅**
+- ⚡ Fun fact **I'm Funny 😅 & Something I can improve about myself is my software knowledge, which is why I currently take technology courses during the weekends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
