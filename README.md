@@ -25,3 +25,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshanjaved28&show_icons=true&locale=en" alt="zeeshanjaved28" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanjaved28&" alt="zeeshanjaved28" /></p>
+
+<img align="left" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
