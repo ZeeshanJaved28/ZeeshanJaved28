@@ -1,5 +1,3 @@
-![logo](https://github.com/ZeeshanJaved28/ZeeshanJaved28/blob/main/ZJ%20GitHub%20Banner.png)
-
 <h1 align="center">Assalam-o-Alaikum🤝🏻, I'm Zeeshan Javed</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
