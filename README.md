@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanjaved28&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanjaved28" /> </p>
 
-- 🌱 I’m currently working on **Web Development and Information Security**
+- 🌱 I’m currently working on **LangChain**
 
 - 📫 How to reach me **zeeshanjaved28@hotmail.com**
 
